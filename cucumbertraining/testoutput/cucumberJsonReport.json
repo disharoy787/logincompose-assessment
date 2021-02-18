@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="55.314">
+    <testcase classname="To validate the login page" name="validate login with id" time="54.942">
+        <system-out>
+            <![CDATA[Given url should be open....................................................passed
+When Enter valid name "disharoy1"...........................................passed
+And Enter valid password "xyz123"...........................................passed
+And click on login button...................................................passed
+Then login success "disha roy"..............................................passed
+When Click on the compose button............................................passed
+When Enter mail id..........................................................passed
+When Enter subject..........................................................passed
+When Enter the message......................................................passed
+When Click on the send button...............................................passed
+Then Message sent successfully..............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
